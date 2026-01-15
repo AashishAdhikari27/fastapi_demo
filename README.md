@@ -1,8 +1,8 @@
-FastAPI + SQLModel (PostgreSQL) CRUD API
+# FastAPI + SQLModel (PostgreSQL) CRUD API
 
 This project is a beginner-friendly, professional FastAPI backend using SQLModel and PostgreSQL. It demonstrates clean database session management, proper startup initialization, and basic CRUD operations.
 
-Tech Stack
+## Tech Stack
 
 Python 3.10+
 
